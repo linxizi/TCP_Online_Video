@@ -6,3 +6,6 @@ Transmit network video between client and server through tcp protocol
 
 tcp_video_client.cpp 为客户端代码
 server.cpp server.h 和tcp_server_medio.cpp 为服务器端代码
+
+
+对应的文章讲解 csdn链接见: http://t.csdn.cn/lbaoj

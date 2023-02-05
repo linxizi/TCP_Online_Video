@@ -9,3 +9,6 @@ server.cpp server.h 和tcp_server_medio.cpp 为服务器端代码
 
 
 对应的文章讲解 csdn链接见: http://t.csdn.cn/lbaoj
+
+
+代码中 opencv版本是3.4.0 需要自己去下载 同时需要将opencv_wprld340.lib和opencv_wprld340.dll放在可执行文件路径下
